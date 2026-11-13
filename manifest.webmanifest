@@ -9,7 +9,7 @@
   "background_color": "#1f3a5f",
   "theme_color": "#1f3a5f",
   "icons": [
-    { "src": "iconos/trustcare-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "iconos/trustcare-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+    { "src": "iconos/corporate-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "iconos/corporate-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
   ]
 }
